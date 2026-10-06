@@ -1,0 +1,5 @@
+# Arquivos compilados
+*.exe
+*.o
+*.class
+programa
