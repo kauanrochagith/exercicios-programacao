@@ -1,6 +1,6 @@
 # Exercícios de Programação
 
-Coleção dos exercícios que fiz enquanto aprendia lógica de programação em **C** e **Java**: laços de repetição, vetores, matrizes e os primeiros passos em Java.
+Coleção dos exercícios que fiz enquanto aprendia lógica de programação em **C** e **Java**: laços de repetição, vetores, matrizes e orientação a objetos (classes, atributos, menus com CRUD) em Java.
 
 Cada exercício tem a própria pasta, com o código comentado e um `README.md` que explica o que ele faz, os conceitos praticados e como executar.
 
@@ -51,6 +51,13 @@ Cada exercício tem a própria pasta, com o código comentado e um `README.md` q
 |---|---|---|
 | 01 | [Hello World em Java](Java/01-hello-world) | Primeiro programa: "Olá, mundo!" |
 | 02 | [Calculadora em Java](Java/02-calculadora) | As 4 operações, com bloqueio de divisão por zero |
+| 03 | [Sistema de Biblioteca](Java/03-sistema-de-biblioteca) | Cadastro, empréstimo e devolução de livros com menu |
+| 04 | [Campeonato de Futebol](Java/04-campeonato-de-futebol) | Dois times disputando partidas, com pontuação |
+| 05 | [Cofrinho](Java/05-cofrinho) | Depósito, retirada e acompanhamento de meta de economia |
+| 06 | [Estacionamento](Java/06-estacionamento) | Cálculo do valor a pagar por tempo estacionado |
+| 07 | [Máquina de Refrigerante](Java/07-maquina-de-refrigerante) | Controle de estoque, compra e cálculo de troco |
+| 08 | [Sistema de Produtos](Java/08-sistema-de-produtos) | CRUD completo de produtos com menu no terminal |
+| 09 | [Sistema de Pedidos](Java/09-sistema-de-pedidos) | Pedido de lanchonete com desconto e status finalizado |
 
 ## Como executar
 
